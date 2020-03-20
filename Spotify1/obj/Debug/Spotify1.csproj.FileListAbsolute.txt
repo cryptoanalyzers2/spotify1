@@ -1,0 +1,17 @@
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\Spotify1.exe.config
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\Spotify1.exe
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\Spotify1.pdb
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\SpotifyAPI.Web.Auth.dll
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\SpotifyAPI.Web.dll
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\SpotifyAPI.Web.xml
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\SpotifyAPI.Web.Auth.xml
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\obj\Debug\Spotify1.exe
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\obj\Debug\Spotify1.pdb
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\SpotifyAPI.dll
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\Unosquare.Labs.EmbedIO.dll
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\Unosquare.Swan.Lite.dll
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\SpotifyAPI.xml
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\Unosquare.Labs.EmbedIO.xml
+C:\Users\Lenovo_x131e\Documents\Visual Studio 2015\Projects\Spotify1\Spotify1\bin\Debug\Unosquare.Swan.Lite.xml
